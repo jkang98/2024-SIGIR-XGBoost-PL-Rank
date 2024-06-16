@@ -7,7 +7,7 @@ Citation
 If you use this code to produce results for your scientific publication, or if you share a copy or fork, please refer to our WSDM 2021 paper:
 
 ```
-@inproceedings{Kang-2024-Computationally,
+@inproceedings{Kang-2024-Estimating,
 author = {Kang, Jingwei and de Rijke, Maarten and Oosterhuis, Harrie},
 booktitle = {SIGIR 2024: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
 month = {July},
