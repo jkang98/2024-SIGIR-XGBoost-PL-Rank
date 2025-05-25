@@ -20,6 +20,3 @@ License
 -------
 
 The contents of this repository are licensed under the [MIT license](LICENSE). If you modify its contents in any way, please link back to this repository.
-
-Usage
--------
